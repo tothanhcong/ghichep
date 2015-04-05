@@ -1,10 +1,10 @@
 ﻿## Oneliners - Phong cách một phát một
 
 ### MỤC LỤC
-*[AWK - Oneliners]#awk-oneliners
-*[SED - Oneliners]#sed-oneliners
-*[GREP - Oneliners]#grep-oneliners
-*[TẠP NHAM - Oneliners]#tapnham-oneliners
+*[AWK - Oneliners](#awk-oneliners)
+*[SED - Oneliners](#sed-oneliners)
+*[GREP - Oneliners](#grep-oneliners)
+*[TẠP NHAM - Oneliners](#tapnham-oneliners)
 
 
 <a name="awk-oneliners"></a>
